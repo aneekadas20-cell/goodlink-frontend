@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GoodLink</string>
+    <string name="request_id_format">Request #%1$d</string>
+</resources>
